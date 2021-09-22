@@ -5,17 +5,17 @@
 <br />
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=DDR13GIT")
+![](https://visitor-badge.glitch.me/badge?page_id=Arittra101")
 
 ## Contact Me:
 <a href="https://www.facebook.com/arittra.das.98/">
-  <img align="left" alt="Deb's Facebook" width="30px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/facebook.svg" />
+  <img align="left" alt="Arittra101's Facebook" width="30px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/facebook.svg" />
 </a>
 <a href="https://www.instagram.com/arittra101/">
-  <img align="left" alt="Deb's Instagram" width="30px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/instagram.svg" />
+  <img align="left" alt="Arittra101's Instagram" width="30px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/instagram.svg" />
 </a>
 <a href="https://www.linkedin.com/in/arittra-das-47a9501b7/">
-  <img align="left" alt="Deb's LinkedIN" width="30px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/linkedin.svg" />
+  <img align="left" alt="Arittra101's LinkedIN" width="30px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/linkedin.svg" />
 </a>
 
 

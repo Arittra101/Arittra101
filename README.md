@@ -5,7 +5,7 @@
 <br />
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=Arittra101")
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Arittra101&label=Profile%20views&color=ce9927&style=flat" alt="Arittra101" /> </p>
 
 ## Contact Me:
 <a href="https://www.facebook.com/arittra.das.98/">

@@ -41,6 +41,6 @@
 
 ## GitHub Status:
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DDR13GIT&show_icons=true&hide_border=true&bg_color=00000000&text_color=3498db&hide=issues" alt="Arittra Das" />
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DDR13GIT&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db" alt="Arittra Das" /> 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Arittra101&show_icons=true&hide_border=true&bg_color=00000000&text_color=3498db&hide=issues" alt="Arittra Das" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arittra101&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db" alt="Arittra Das" /> 
 

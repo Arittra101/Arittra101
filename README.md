@@ -1,6 +1,6 @@
 # Hey there, I'm  [Arittra Das]() <img src="https://media.giphy.com/media/iJUhSOR9agCiXPFBqu/giphy.gif" width="50px"> 
 
-#### I'm an undergraduate student at Ahsanullah University of Science and Techonology studying computer science and engineering. 
+#### A recent graduate from Ahsanullah University of Science and Technology, I am currently engaged as a Trainee Software Engineer at SEBPO.
 
 <br />
 

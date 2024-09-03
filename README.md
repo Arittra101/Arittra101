@@ -1,6 +1,6 @@
 # Hey there, I'm  [Arittra Das]() <img src="https://media.giphy.com/media/iJUhSOR9agCiXPFBqu/giphy.gif" width="50px"> 
 
-#### A recent graduate from Ahsanullah University of Science and Technology, I am currently engaged as a Trainee Software Engineer at BrainStation-23 PLC.
+#### A recent graduate from Ahsanullah University of Science and Technology, I am currently engaged as a Associate Software Engineer at BrainStation-23 PLC.
 
 <br />
 

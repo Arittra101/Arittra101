@@ -1,43 +1,66 @@
-# Hey there, I'm  [Arittra Das]() <img src="https://media.giphy.com/media/iJUhSOR9agCiXPFBqu/giphy.gif" width="50px"> 
+# Hi, I'm Arittra Das 👋
 
-#### A recent graduate from Ahsanullah University of Science and Technology, I am currently engaged as a Software Engineer L-1 at BrainStation-23 PLC.
+**Software Engineer L-2 · Brain Station 23 PLC**
 
-<br />
+Android developer with **2 years of experience** building production mobile apps. Currently working on the **Mybl super app** for Banglalink, gaining deep exposure to the **telecom domain**. I specialize in **Kotlin & Jetpack Compose**, and have hands-on experience with **Compose Multiplatform (CMP)** for cross-platform development. I enjoy solving real-world problems through clean, practical code.
 
+---
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Arittra101&label=Profile%20views&color=ce9927&style=flat" alt="Arittra101" /> </p>
+## 🛠️ Tech Stack
 
-## Contact Me:
-<a href="https://www.facebook.com/arittra.das.98/">
-  <img align="left" alt="Arittra101's Facebook" width="30px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/facebook.svg" />
-</a>
-<a href="https://www.instagram.com/arittra101/">
-  <img align="left" alt="Arittra101's Instagram" width="30px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/instagram.svg" />
-</a>
-<a href="https://www.linkedin.com/in/arittra-das-47a9501b7/">
-  <img align="left" alt="Arittra101's LinkedIN" width="30px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/linkedin.svg" />
-</a>
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=flat&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-%234285F4.svg?style=flat&logo=jetpackcompose&logoColor=white)
+![CMP](https://img.shields.io/badge/Compose%20Multiplatform-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat&logo=postgresql&logoColor=white)
 
+---
 
+## 📊 At a Glance
 
-<br />
+| | |
+|---|---|
+| 🏢 **Company** | Brain Station 23 PLC |
+| 📱 **Focus** | Android · Kotlin · Jetpack Compose |
+| 🌐 **Domain** | Telecom · Cross-platform (CMP) |
+| 📍 **Location** | Dhaka, Bangladesh |
+| 💼 **Experience** | 2+ years |
 
-<br />
+---
 
-## Languages & Tools:
+## 🚀 Projects
 
-<img align="left" alt="java" width="30px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/java.svg" />
-<img align="left" alt="c" width="30px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/c-programming.svg" />
-<img align="left" alt="c++" width="30px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/c++.svg" />
-<img align="left" alt="html" width="30px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/html.svg" />
-<img align="left" alt="css" width="30px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/css.svg" />
-<img align="left" alt="js" width="30px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/js.svg" />
-<img align="left" alt="bootstrap" width="30px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/bootstrap.svg" />
+### 📡 Mybl — Banglalink Super App
+> Production Android app for Bangladesh's major telecom operator.
 
+- Built with Kotlin & Jetpack Compose
+- 2 years of hands-on telecom domain experience
+- Serving millions of users across Bangladesh
 
+---
 
-<br />
-<br />
+### 🩺 Phone Care — Bengali Health Utility
+> Solo-built Android utility app showing device health metrics in plain Bangla.
 
+- Covers battery, RAM, storage, network & security
+- Designed for Bangla-speaking users with local-first UX
+- No backend — fully on-device
 
+---
 
+### 🏠 MessMate — Shared Living Manager
+> Android + NestJS app for mess/shared-living cost management.
+
+- Kotlin · Jetpack Compose · NestJS · PostgreSQL
+- Role-based access (Admin, Co-Manager, Member)
+- NID-based member verification & expiring invite links
+
+---
+
+## 🤝 Let's Connect
+
+Always open to new ideas, collaborations, and interesting projects.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/arittra-das)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)](https://github.com/arittra-das)

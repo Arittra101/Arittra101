@@ -4,6 +4,8 @@
 
 Android developer with **2 years of experience** building production mobile apps. Currently working on the **Mybl super app** for Banglalink, gaining deep exposure to the **telecom domain**. I specialize in **Kotlin & Jetpack Compose**, and have hands-on experience with **Compose Multiplatform (CMP)** for cross-platform development. I enjoy solving real-world problems through clean, practical code.
 
+Currently expanding my skill set into backend development — exploring **NestJS** to broaden my engineering perspective and build more well-rounded solutions.
+
 ---
 
 ## 🛠️ Tech Stack
@@ -24,6 +26,7 @@ Android developer with **2 years of experience** building production mobile apps
 | 🏢 **Company** | Brain Station 23 PLC |
 | 📱 **Focus** | Android · Kotlin · Jetpack Compose |
 | 🌐 **Domain** | Telecom · Cross-platform (CMP) |
+| 🌱 **Currently Learning** | NestJS · Backend Development |
 | 📍 **Location** | Dhaka, Bangladesh |
 | 💼 **Experience** | 2+ years |
 
@@ -37,24 +40,6 @@ Android developer with **2 years of experience** building production mobile apps
 - Built with Kotlin & Jetpack Compose
 - 2 years of hands-on telecom domain experience
 - Serving millions of users across Bangladesh
-
----
-
-### 🩺 Phone Care — Bengali Health Utility
-> Solo-built Android utility app showing device health metrics in plain Bangla.
-
-- Covers battery, RAM, storage, network & security
-- Designed for Bangla-speaking users with local-first UX
-- No backend — fully on-device
-
----
-
-### 🏠 MessMate — Shared Living Manager
-> Android + NestJS app for mess/shared-living cost management.
-
-- Kotlin · Jetpack Compose · NestJS · PostgreSQL
-- Role-based access (Admin, Co-Manager, Member)
-- NID-based member verification & expiring invite links
 
 ---
 
